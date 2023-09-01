@@ -1,0 +1,9 @@
+body{
+    background-size: cover;
+}
+#label {
+    font-size: large;
+}
+input{
+    width: max-content;
+}
